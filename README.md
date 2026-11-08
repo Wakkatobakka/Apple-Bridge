@@ -13,6 +13,8 @@
 
 **Apple Bridge brings a collection of early iPhone games to Android.** Mass Effect Galaxy, Dead Space, Chaos Rings, and more share one library, with each game's original gameplay, touchscreen controls, and tilt inputs where the game uses them.
 
+https://github.com/user-attachments/assets/745ced6f-6950-4e1d-971d-02b7be1f1e3a
+
 Install the player, import a matching original `.ipa`, and tap its game tile to play. The compatibility bridges are included. Original game files are supplied by you.
 
 ## A different corner of mobile gaming
