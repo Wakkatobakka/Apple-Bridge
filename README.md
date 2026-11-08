@@ -1,6 +1,7 @@
 ![Apple Bridge — Old iPhone games. Back in your hands.](apple-bridge-banner.jpg)
 
 <p align="center">
+  <a href="https://github.com/Wakkatobakka/Apple-Bridge/releases"><strong>Download Apple Bridge</strong></a> ·
   <a href="#download-and-play">Get started</a> ·
   <a href="GAME_GUIDE.md">Games, original files &amp; sources</a>
 </p>
