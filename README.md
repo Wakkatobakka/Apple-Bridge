@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="apple-bridge-icon.png" width="144" alt="Apple Bridge">
-</p>
-
-<h1 align="center">Apple Bridge</h1>
-
-<p align="center"><strong>Old iPhone games. Back in your hands.</strong></p>
+![Apple Bridge — Old iPhone games. Back in your hands.](apple-bridge-banner.jpg)
 
 <p align="center">
   <a href="#download-and-play">Get started</a> ·
@@ -73,6 +67,8 @@ For a bug report, include the game and edition, AB version, Android device, what
 I'm [Wakkatobakka](https://github.com/Wakkatobakka). This is a one-person hobby, working with AI to investigate, build, test, and iterate around my job and family.
 
 I like finding the odd corners of gaming history and getting them playable again. These iPhone games turned out to be a lot of fun. Apple Bridge gives them a shared home, and gives more people a way to try them.
+
+Specifically though, this one came from me (and I'm repeating basically what I put on my release page) getting a stick up my ass about Bioware getting the axe. I love their games. so this is my attempt at something I guess.
 
 ## Originals, preservation, and credits
 
