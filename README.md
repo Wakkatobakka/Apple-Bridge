@@ -8,9 +8,22 @@
 
 **Apple Bridge brings a collection of early iPhone games to Android.** Mass Effect Galaxy, Dead Space, Chaos Rings, and more share one library, with each game's original gameplay, touchscreen controls, and tilt inputs where the game uses them.
 
+| Devil May Cry 4: Refrain | Chaos Rings |
+| :---: | :---: |
+| https://github.com/user-attachments/assets/285ee3f9-f6b7-4947-931e-98cba3ddfafb | https://github.com/user-attachments/assets/a8e735a8-61d7-4df0-af07-a3f99a1dfa7e |
+
+<details>
+<summary>More gameplay</summary>
+
 | Silent Hill: The Escape | Metal Gear Solid Touch |
 | :---: | :---: |
 | https://github.com/user-attachments/assets/745ced6f-6950-4e1d-971d-02b7be1f1e3a | https://github.com/user-attachments/assets/12b64fb4-d914-40c1-b70b-0a1d52c04693 |
+
+| Doom Resurrection | Zombie Infection |
+| :---: | :---: |
+| https://github.com/user-attachments/assets/e724c0b3-b3f7-439d-b232-4782e8a03a77 | https://github.com/user-attachments/assets/65a757fe-de25-46f8-ae0d-cce56e34ad3e |
+
+</details>
 
 Install the player, import a matching original `.ipa`, and tap its game tile to play. The compatibility bridges are included. Original game files are supplied by you.
 
