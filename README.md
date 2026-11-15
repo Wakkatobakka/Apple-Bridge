@@ -6,7 +6,7 @@
   <a href="GAME_GUIDE.md">Games, original files &amp; sources</a>
 </p>
 
-**Apple Bridge brings a collection of early iPhone games to Android.** Mass Effect Galaxy, Dead Space, Chaos Rings, and more share one library, with each game's original gameplay, touchscreen controls, and tilt inputs where the game uses them.
+**Apple Bridge brings 21 early iPhone games to Android in v0.0.8.** GTA Vice City, Mass Effect Infiltrator, Infinity Blade II, Mass Effect Galaxy, Dead Space, and more share one library, with each game's original gameplay, touchscreen controls, and tilt inputs where the game uses them.
 
 | Devil May Cry 4: Refrain | Chaos Rings |
 | :---: | :---: |
@@ -40,20 +40,31 @@ Apple Bridge brings those experiences together while keeping their individual ch
 
 ## The games
 
-The current public collection contains **10 games**. The guide has direct links to their matching original IPAs, source pages, supported editions, and playing notes.
+The v0.0.8 public collection contains **21 games**: **11 additions** alongside updated bridges for the original ten. The guide has the supported original editions, filenames, download links, and playing notes.
 
-| Game | What to expect |
-| --- | --- |
-| [Castlevania Puzzle: Encore of the Night](GAME_GUIDE.md#castlevania-puzzle-encore-of-the-night) | Falling-block battles and castle exploration |
-| [Chaos Rings](GAME_GUIDE.md#chaos-rings) | An RPG with exploration and turn-based combat |
-| [Dead Space](GAME_GUIDE.md#dead-space) | Third-person survival horror made for a phone |
-| [Devil May Cry 4: Refrain](GAME_GUIDE.md#devil-may-cry-4-refrain) | Swords, guns, jumping, and touchscreen demon hunting |
-| [Doom Resurrection](GAME_GUIDE.md#doom-resurrection) | A rail shooter with tilt aiming and touch actions |
-| [Mass Effect Galaxy](GAME_GUIDE.md#mass-effect-galaxy) | Jacob Taylor's adventure with tilt movement |
-| [Metal Gear Solid Touch](GAME_GUIDE.md#metal-gear-solid-touch) | Touch aiming, cover, and a two-finger scope |
-| [Prey Invasion](GAME_GUIDE.md#prey-invasion) | First-person alien encounters with touch controls |
-| [Silent Hill: The Escape](GAME_GUIDE.md#silent-hill-the-escape) | Maze exploration, shooting, and tilt alignment |
-| [Zombie Infection](GAME_GUIDE.md#zombie-infection) | Gameloft's third-person zombie action |
+| Game | What to expect | Bridge |
+| --- | --- | --- |
+| [Assassin’s Creed: Altaïr’s Chronicles](GAME_GUIDE.md#assassins-creed-altairs-chronicles) | Altaïr’s touchscreen action adventure | 0.0.1 |
+| [Castlevania Puzzle: Encore of the Night](GAME_GUIDE.md#castlevania-puzzle-encore-of-the-night) | Falling-block battles and castle exploration | 0.0.2 |
+| [Chaos Rings](GAME_GUIDE.md#chaos-rings) | Exploration and turn-based combat | 0.0.3 |
+| [Dead Space](GAME_GUIDE.md#dead-space) | Third-person survival horror made for a phone | 0.0.2 |
+| [Devil May Cry 4: Refrain](GAME_GUIDE.md#devil-may-cry-4-refrain) | Swords, guns, jumping, and touchscreen demon hunting | 0.0.4 |
+| [Doom Resurrection](GAME_GUIDE.md#doom-resurrection) | Tilt aiming and touchscreen actions | 0.0.3 |
+| [Flappy Bird](GAME_GUIDE.md#flappy-bird) | Tap-to-flap obstacle runs | 0.0.5 |
+| [GAROU: Mark of the Wolves](GAME_GUIDE.md#garou-mark-of-the-wolves) | SNK fighting on a touchscreen | 0.0.1 |
+| [GTA Vice City](GAME_GUIDE.md#gta-vice-city) | Vice City on Android through the original iOS game | 0.0.4 |
+| [Infinity Blade II](GAME_GUIDE.md#infinity-blade-ii) | Touchscreen sword duels | 0.0.1 |
+| [Mass Effect Galaxy](GAME_GUIDE.md#mass-effect-galaxy) | Jacob Taylor’s adventure with tilt movement | 0.0.16 |
+| [Mass Effect Infiltrator](GAME_GUIDE.md#mass-effect-infiltrator) | A touchscreen Mass Effect shooter | 0.0.6 |
+| [Metal Gear Solid Touch](GAME_GUIDE.md#metal-gear-solid-touch) | Touch aiming, cover, and a two-finger scope | 0.0.4 |
+| [Monster Hunter: Dynamic Hunting](GAME_GUIDE.md#monster-hunter-dynamic-hunting) | Monster hunts built around touch controls | 0.0.3 |
+| [N.O.V.A. HD](GAME_GUIDE.md#nova-hd) | The original iPad HD edition of Gameloft’s sci-fi shooter | 0.0.1 |
+| [Prey Invasion](GAME_GUIDE.md#prey-invasion) | Alien encounters with touch controls | 0.0.3 |
+| [Samurai II: Vengeance](GAME_GUIDE.md#samurai-ii-vengeance) | Touchscreen samurai combat | 0.0.1 |
+| [Silent Hill: The Escape](GAME_GUIDE.md#silent-hill-the-escape) | Maze exploration, shooting, and tilt alignment | 0.0.7 |
+| [Spider-Man: Total Mayhem](GAME_GUIDE.md#spider-man-total-mayhem) | Spider-Man’s touchscreen action adventure | 0.0.5 |
+| [Zenonia](GAME_GUIDE.md#zenonia) | The original Zenonia adventure | 0.0.2 |
+| [Zombie Infection](GAME_GUIDE.md#zombie-infection) | Gameloft’s third-person zombie action | 0.0.2 |
 
 **[Open the game guide →](GAME_GUIDE.md)**
 
@@ -62,7 +73,7 @@ The current public collection contains **10 games**. The guide has direct links 
 **You'll need:** an Android 11+ device with ARM64 support, the Apple Bridge APK, and a matching original game IPA.
 
 1. **Download the public APK** from this repository's **Releases** section and install it. Android may ask you to allow installation from your browser or file manager.
-2. **Choose a game in the [guide](GAME_GUIDE.md).** Download its listed original IPA and keep the file intact.
+2. **Choose a game in the [guide](GAME_GUIDE.md).** Download its listed original IPA and keep the file intact. Match the documented edition; N.O.V.A. HD uses the listed iPad edition.
 3. **Open Apple Bridge and tap Load Game.** Select the IPA and let the import finish.
 4. **Tap the game's tile to play.** Import the original once, then return to it from your collection.
 
