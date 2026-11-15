@@ -8,12 +8,16 @@
 
 **Apple Bridge brings 21 early iPhone games to Android in v0.0.8.** GTA Vice City, Mass Effect Infiltrator, Infinity Blade II, Mass Effect Galaxy, Dead Space, and more share one library, with each game's original gameplay, touchscreen controls, and tilt inputs where the game uses them.
 
-| Devil May Cry 4: Refrain | Chaos Rings |
+| Spider-Man: Total Mayhem | Zenonia |
 | :---: | :---: |
-| https://github.com/user-attachments/assets/285ee3f9-f6b7-4947-931e-98cba3ddfafb | https://github.com/user-attachments/assets/a8e735a8-61d7-4df0-af07-a3f99a1dfa7e |
+| https://github.com/user-attachments/assets/9090fe6d-ad4c-4385-b693-a400a9dbb473 | https://github.com/user-attachments/assets/e4166d30-62cd-4960-aecc-e5752d6f936e |
 
 <details>
 <summary>More gameplay</summary>
+
+| Devil May Cry 4: Refrain | Chaos Rings |
+| :---: | :---: |
+| https://github.com/user-attachments/assets/285ee3f9-f6b7-4947-931e-98cba3ddfafb | https://github.com/user-attachments/assets/a8e735a8-61d7-4df0-af07-a3f99a1dfa7e |
 
 | Silent Hill: The Escape | Metal Gear Solid Touch |
 | :---: | :---: |
