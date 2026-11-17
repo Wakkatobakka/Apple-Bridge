@@ -1,3 +1,5 @@
+![Apple Bridge — Game guide](./assets/apple-bridge/guide-header.png)
+
 # Apple Bridge — Game Guide
 
 > **Old iPhone games. Back in your hands.**

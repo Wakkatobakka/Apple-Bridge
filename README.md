@@ -1,19 +1,54 @@
-![Apple Bridge — Old iPhone games. Back in your hands.](apple-bridge-banner.jpg)
+![Apple Bridge — Old iPhone games. Back in your hands.](./assets/apple-bridge/hero.png)
+
+![Original iPhone game artwork: Dead Space, Silent Hill: The Escape, Devil May Cry 4: Refrain, and Chaos Rings.](./assets/apple-bridge/game-dock.png)
 
 <p align="center">
-  <a href="https://github.com/Wakkatobakka/Apple-Bridge/releases"><strong>Download Apple Bridge</strong></a> ·
-  <a href="#download-and-play">Get started</a> ·
-  <a href="GAME_GUIDE.md">Games, original files &amp; sources</a>
+  <a href="https://github.com/Wakkatobakka/Apple-Bridge/releases"><img src="./assets/apple-bridge/download.png" width="49%" alt="Download Apple Bridge public releases"></a>
+  <a href="./GAME_GUIDE.md"><img src="./assets/apple-bridge/browse-games.png" width="49%" alt="Browse supported games, original IPAs, and sources"></a>
 </p>
 
+<p align="center"><strong>Android 11+ / ARM64 · Bring your original game files</strong></p>
+
 **Apple Bridge brings 21 early iPhone games to Android in v0.0.8.** GTA Vice City, Mass Effect Infiltrator, Infinity Blade II, Mass Effect Galaxy, Dead Space, and more share one library, with each game's original gameplay, touchscreen controls, and tilt inputs where the game uses them.
+
+Install the player, import a matching original `.ipa`, and tap its game tile to play. The compatibility bridges are included. Original game files are supplied by you.
+
+[Get started](#download-and-play) · [The games](#the-games) · [See it running](#see-it-running) · [Help](#testing-and-rough-edges) · [About](#why-im-making-this)
+
+<a name="download-and-play"></a>
+
+## ![Download and play](./assets/apple-bridge/get-playing.png)
+
+![Three steps: install Apple Bridge, bring your matching original IPA, then load it and play.](./assets/apple-bridge/quick-start.png)
+
+**You'll need:** an Android 11+ device with ARM64 support, the Apple Bridge APK, and a matching original game IPA.
+
+1. **Download the public APK** from this repository's [**Releases** section](https://github.com/Wakkatobakka/Apple-Bridge/releases) and install it. Android may ask you to allow installation from your browser or file manager.
+2. **Choose a game in the [guide](GAME_GUIDE.md).** Download its listed original IPA and keep the file intact. Match the documented edition; N.O.V.A. HD uses the listed iPad edition.
+3. **Open Apple Bridge and tap Load Game.** Select the IPA and let the import finish.
+4. **Tap the game's tile to play.** Import the original once, then return to it from your collection.
+
+No separate bridge downloads or manual patching are needed. If your original came in split archive parts, extract those parts into one complete IPA before importing; keep the resulting `.ipa` intact.
+
+**Updating?** Install the new public APK over your existing public Apple Bridge installation to keep its library and saves. Keep the existing app data.
+
+<a name="see-it-running"></a>
+
+## ![See it running](./assets/apple-bridge/see-it-running.png)
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/285ee3f9-f6b7-4947-931e-98cba3ddfafb"><img src="./assets/apple-bridge/dmc4-gameplay.png" width="49%" alt="Watch Devil May Cry 4: Refrain recorded in Apple Bridge"></a>
+  <a href="https://github.com/user-attachments/assets/a8e735a8-61d7-4df0-af07-a3f99a1dfa7e"><img src="./assets/apple-bridge/chaos-rings-gameplay.png" width="49%" alt="Watch Chaos Rings recorded in Apple Bridge"></a>
+</p>
+
+Recorded in Apple Bridge. Tap a preview to open its gameplay clip.
+
+<details>
+<summary>More gameplay — Spider-Man, Zenonia, Silent Hill, Metal Gear, and more</summary>
 
 | Spider-Man: Total Mayhem | Zenonia |
 | :---: | :---: |
 | https://github.com/user-attachments/assets/9090fe6d-ad4c-4385-b693-a400a9dbb473 | https://github.com/user-attachments/assets/e4166d30-62cd-4960-aecc-e5752d6f936e |
-
-<details>
-<summary>More gameplay</summary>
 
 | Devil May Cry 4: Refrain | Chaos Rings |
 | :---: | :---: |
@@ -29,9 +64,9 @@
 
 </details>
 
-Install the player, import a matching original `.ipa`, and tap its game tile to play. The compatibility bridges are included. Original game files are supplied by you.
+<a name="a-different-corner-of-mobile-gaming"></a>
 
-## A different corner of mobile gaming
+## ![A different corner of mobile gaming](./assets/apple-bridge/features.png)
 
 An RPG you could carry in your pocket. A Doom shooter aimed by tilting the phone. A Castlevania built around falling-block battles. These games have their own ideas about what playing on a phone can feel like.
 
@@ -42,9 +77,16 @@ Apple Bridge brings those experiences together while keeping their individual ch
 - **Room to play.** Game views keep their original proportions, with landscape layouts using available space for the game and its utilities.
 - **Useful reports.** Save a report when something goes wrong, so there is something concrete to investigate.
 
-## The games
+<a name="the-games"></a>
+
+## ![The games](./assets/apple-bridge/the-games.png)
 
 The v0.0.8 public collection contains **21 games**: **11 additions** alongside updated bridges for the original ten. The guide has the supported original editions, filenames, download links, and playing notes.
+
+**[Open the game guide →](GAME_GUIDE.md)**
+
+<details>
+<summary>See all 21 games and their bridge versions</summary>
 
 | Game | What to expect | Bridge |
 | --- | --- | --- |
@@ -70,22 +112,11 @@ The v0.0.8 public collection contains **21 games**: **11 additions** alongside u
 | [Zenonia](GAME_GUIDE.md#zenonia) | The original Zenonia adventure | 0.0.2 |
 | [Zombie Infection](GAME_GUIDE.md#zombie-infection) | Gameloft’s third-person zombie action | 0.0.2 |
 
-**[Open the game guide →](GAME_GUIDE.md)**
+</details>
 
-## Download and play
+<a name="testing-and-rough-edges"></a>
 
-**You'll need:** an Android 11+ device with ARM64 support, the Apple Bridge APK, and a matching original game IPA.
-
-1. **Download the public APK** from this repository's **Releases** section and install it. Android may ask you to allow installation from your browser or file manager.
-2. **Choose a game in the [guide](GAME_GUIDE.md).** Download its listed original IPA and keep the file intact. Match the documented edition; N.O.V.A. HD uses the listed iPad edition.
-3. **Open Apple Bridge and tap Load Game.** Select the IPA and let the import finish.
-4. **Tap the game's tile to play.** Import the original once, then return to it from your collection.
-
-No separate bridge downloads, extraction, or manual patching are needed.
-
-**Updating?** Install the new public APK over your existing public Apple Bridge installation to keep its library and saves. Keep the existing app data.
-
-## Testing and rough edges
+## ![Testing and rough edges](./assets/apple-bridge/help.png)
 
 Every included game is personally playtested through its tutorial and into the first level, often further. Full start-to-finish completion has not been verified for every title, so later bugs or progression issues may still exist.
 
@@ -93,7 +124,9 @@ The [guide](GAME_GUIDE.md#help-and-troubleshooting) covers practical details suc
 
 For a bug report, include the game and edition, AB version, Android device, what happened, and a saved report or short recording where possible. **SAVE REPORT** in the game writes a text report to Downloads; AB also has **Save report** in its overflow menu for library and import issues.
 
-## Why I'm making this
+<a name="why-im-making-this"></a>
+
+## ![Why I'm making this](./assets/apple-bridge/about.png)
 
 I'm [Wakkatobakka](https://github.com/Wakkatobakka). This is a one-person hobby, working with AI to investigate, build, test, and iterate around my job and family.
 
@@ -101,10 +134,14 @@ I like finding the odd corners of gaming history and getting them playable again
 
 Specifically though, this one came from me (and I'm repeating basically what I put on my release page) getting a stick up my ass about Bioware getting the axe. I love their games. so this is my attempt at something I guess.
 
-## Originals, preservation, and credits
+<a name="originals-preservation-and-credits"></a>
+
+## ![Originals, preservation, and credits](./assets/apple-bridge/credits.png)
 
 Players supply the original game files. The [game guide](GAME_GUIDE.md) records the supported editions, recognizable filenames, direct IPA links, and source pages, with optional fingerprints for file verification.
 
 The compatibility bridges build on [touchHLE](https://touchhle.org/) and its contributors' work. Apple Bridge uses modified touchHLE-based builds; runtime and dependency credits remain with their respective contributors. Component license texts and notices are retained with the bundled bridges.
 
 Original games, artwork, music, and trademarks belong to their respective owners. Credit for preserving and sharing the archived originals belongs to the archive uploaders and preservation contributors. Their source pages are linked from the guide.
+
+Page graphics use the existing Apple Bridge app icon and original game artwork. [Artwork sources](./assets/apple-bridge/ARTWORK_NOTES.txt).

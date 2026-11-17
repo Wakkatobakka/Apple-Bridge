@@ -1,0 +1,44 @@
+APPLE BRIDGE / CLASSIC iPHONE VISUALS
+
+The Apple Bridge brand icon is the existing res/drawable/apple_bridge_icon.png
+from Wakkatobakka's public Apple-Bridge-0.0.8.apk. It is used intact, not
+redesigned or replaced. The hero and social image use this same icon.
+
+Original game artwork is the iTunesArtwork entry from the exact IPAs
+listed in the maintained game guide, presented with rounded framing and
+a classic system-style glass highlight. No generated game icons or
+generated gameplay scenes are used in this finished package.
+
+dead-space
+https://archive.org/download/ios_3_ipa/Dead_Space_v1.0.3_os30.ipa
+Archive entry: iTunesArtwork
+
+silent-hill
+https://archive.org/download/SilentHillTheEscape/SilentHillTheEscape.ipa
+Archive entry: iTunesArtwork
+
+dmc4
+https://archive.org/download/Devil_May_Cry_4_refrain_1.05.01_ios_4.1/Devil_May_Cry_4_refrain_1.05.01_ios_4.1.ipa
+Archive entry: iTunesArtwork
+
+chaos-rings
+https://archive.org/download/ios_3_ipa/ChaosRings_v1.1.0_os30.ipa
+Archive entry: iTunesArtwork
+
+The gameplay preview panels are full-frame captures at five seconds from
+the owner's recordings already linked in the public README. Their aspect
+ratios and the complete recorded frame are preserved.
+
+Devil May Cry 4: Refrain
+https://github.com/user-attachments/assets/285ee3f9-f6b7-4947-931e-98cba3ddfafb
+
+Chaos Rings
+https://github.com/user-attachments/assets/a8e735a8-61d7-4df0-af07-a3f99a1dfa7e
+
+Original games, artwork and trademarks retain their respective ownership.
+Archive preservation credits and source pages remain in GAME_GUIDE.md.
+Runtime credits remain with touchHLE and the existing release notices.
+
+All interface artwork is static, self-contained PNG. The body text remains
+native Markdown. No scripts, remote badge services, or hosted fonts are
+needed to display the README on GitHub.
