@@ -1,0 +1,22 @@
+name: Request a game
+description: Suggest an iPhone or iPad game for Apple Bridge.
+title: "[Game request] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        [Check existing requests](https://github.com/Wakkatobakka/Apple-Bridge/issues?q=is%3Aissue+%22Game+request%22+in%3Atitle+sort%3Areactions-%2B1-desc) first. If your game is already listed, give that request a 👍.
+
+        For a new request, put the game's name after **[Game request]** in the issue title.
+  - type: input
+    id: game
+    attributes:
+      label: Game name
+      placeholder: Full game title
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Edition or reference link
+      description: Optional. Add the edition, developer, or an App Store or publisher link if you know it.
