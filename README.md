@@ -1,11 +1,13 @@
 ![Apple Bridge — Old iPhone games. Back in your hands.](./assets/apple-bridge/hero.png)
 
-![Original iPhone game artwork: Dead Space, Silent Hill: The Escape, Devil May Cry 4: Refrain, and Chaos Rings.](./assets/apple-bridge/game-dock.png)
-
 <p align="center">
   <a href="https://github.com/Wakkatobakka/Apple-Bridge/releases"><img src="./assets/apple-bridge/download.png" width="49%" alt="Download Apple Bridge public releases"></a>
-  <a href="./GAME_GUIDE.md"><img src="./assets/apple-bridge/browse-games.png" width="49%" alt="Browse supported games, original IPAs, and sources"></a>
+  <a href="https://wakkatobakka.github.io/"><img src="./assets/apple-bridge/explore-games-and-archives.png" width="49%" alt="Explore games &amp; archives on the Wakkatobakka website"></a>
 </p>
+
+<p align="center"><a href="./GAME_GUIDE.md">Game guide &amp; original IPAs</a></p>
+
+![Original iPhone game artwork: Dead Space, Silent Hill: The Escape, Devil May Cry 4: Refrain, and Chaos Rings.](./assets/apple-bridge/game-dock.png)
 
 <p align="center"><strong>Android 11+ / ARM64 · Bring your original game files</strong></p>
 
