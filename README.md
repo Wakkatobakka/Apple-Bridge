@@ -5,9 +5,7 @@
   <a href="https://wakkatobakka.github.io/"><img src="./assets/apple-bridge/explore-games-and-archives.png" width="49%" alt="Explore games &amp; archives on the Wakkatobakka website"></a>
 </p>
 
-<p align="center"><a href="./GAME_GUIDE.md">Game guide &amp; original IPAs</a></p>
-
-![Original iPhone game artwork: Dead Space, Silent Hill: The Escape, Devil May Cry 4: Refrain, and Chaos Rings.](./assets/apple-bridge/game-dock.png)
+<p align="center"><a href="./GAME_GUIDE.md">Game guide &amp; original IPAs</a> · <a href="#request-a-game">Request a game</a></p>
 
 <p align="center"><strong>Android 11+ / ARM64 · Bring your original game files</strong></p>
 
@@ -16,6 +14,12 @@
 Install the player, import a matching original `.ipa`, and tap its game tile to play. The compatibility bridges are included. Original game files are supplied by you.
 
 [Get started](#download-and-play) · [The games](#the-games) · [See it running](#see-it-running) · [Help](#testing-and-rough-edges) · [About](#why-im-making-this)
+
+## Game library
+
+<p align="center">
+  <a href="./assets/apple-bridge/library-screenshot.jpg"><img src="./assets/apple-bridge/library-screenshot.jpg" width="380" alt="Apple Bridge’s Android game library in Grid view, with a count of 21 games."></a>
+</p>
 
 <a name="download-and-play"></a>
 
@@ -115,6 +119,14 @@ The v0.0.8 public collection contains **21 games**: **11 additions** alongside u
 | [Zombie Infection](GAME_GUIDE.md#zombie-infection) | Gameloft’s third-person zombie action | 0.0.2 |
 
 </details>
+
+## Request a game
+
+Want to play an old iPhone or iPad game in Apple Bridge? Tell me which one. I use these requests to decide what to try next.
+
+[Browse requests by 👍](https://github.com/Wakkatobakka/Apple-Bridge/issues?q=is%3Aissue+%22Game+request%22+in%3Atitle+sort%3Areactions-%2B1-desc) · [Submit a game request](https://github.com/Wakkatobakka/Apple-Bridge/issues/new?template=game-request.yml)
+
+If someone already requested your game, give their opening post a 👍 so the votes stay together.
 
 <a name="testing-and-rough-edges"></a>
 
