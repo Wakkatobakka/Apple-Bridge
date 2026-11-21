@@ -2,28 +2,24 @@
 
 # Apple Bridge — Game Guide
 
-> **Old iPhone games. Back in your hands.**
-
-**Apple Bridge v0.0.8 includes 21 games** from the early iPhone era, brought together on Android with their original gameplay, touchscreen controls, and tilt inputs where the game uses them.
-
-Pick a game, download its matching original IPA, and load it in Apple Bridge. The player supplies the compatibility bridges; you supply the original game files.
+Pick a game to find its supported original iPhone or iPad edition, filename, and playing notes.
 
 **[Get started](#get-started) · [Choose a game](#choose-a-game) · [Help](#help-and-troubleshooting) · [Credits and sources](#credits-and-sources)**
 
 ## Get started
 
-1. **Install Apple Bridge v0.0.8.** Use an Android 11+ device with ARM64 support. Install the public update over your existing public AB installation to keep its library and saves.
+1. **Install the [current Apple Bridge APK](https://github.com/Wakkatobakka/Apple-Bridge/releases).** Use an Android 11+ device with ARM64 support. Install the public update over your existing public AB installation to keep its library and saves.
 2. **Download the matching original.** Choose **Download original IPA** in the game's entry below. Keep the `.ipa` intact and match the listed edition.
 3. **Open AB and tap Load Game.** Select the downloaded IPA and let the import finish.
 4. **Tap the game's tile to play.** Import the original once; launch it from your collection afterward.
 
 The bridges are included; no separate bridge downloads or manual patching are needed. If you downloaded an original in split archive parts, extract those parts into one complete IPA before importing. The iOS version in an original filename identifies the old edition; it is not an Android requirement.
 
-**About testing:** Each game is personally playtested through its tutorial and into the first level, often further. Full start-to-finish completion has not been verified for every title, so later bugs or progression issues may still exist. Your installed AB release determines which games and bridge revisions are available.
+[Controller presets and setup](https://github.com/Wakkatobakka/Apple-Bridge/releases/tag/v.0.0.9) · [Testing and rough edges](README.md#testing-and-rough-edges)
 
 ## Choose a game
 
-These are the 21 bridges included in public v0.0.8. The original IPA and its bridge have separate version numbers. N.O.V.A. HD uses the listed iPad edition; the other similarly named N.O.V.A. releases are different originals.
+The table lists supported originals and the bridge versions verified in public v0.0.8. The original IPA and its bridge have separate version numbers. N.O.V.A. HD uses the listed iPad edition.
 
 | Game | Original edition | Bridge | Original IPA |
 | --- | --- | --- | --- |
