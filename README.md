@@ -11,7 +11,9 @@
 
 **Apple Bridge brings 21 early iPhone games to Android in v0.0.9.** GTA Vice City, Mass Effect Infiltrator, Infinity Blade II, Dead Space, and more share one library, each keeping its own interface, touchscreen and tilt controls, and save system. **Now with Bluetooth controller support**, with mappable weapons and saved profiles.
 
-These games have their own ideas about what playing on a phone can feel like: an RPG you could carry in your pocket, a Doom shooter aimed by tilting the phone, a Castlevania built around falling-block battles.
+<a name="a-different-corner-of-mobile-gaming"></a>These games have their own ideas about what playing on a phone can feel like: an RPG you could carry in your pocket, a Doom shooter aimed by tilting the phone, a Castlevania built around falling-block battles.
+
+<a name="download-and-play"></a>
 
 ## Get started
 
