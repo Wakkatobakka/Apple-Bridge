@@ -9,7 +9,7 @@
 
 <p align="center"><strong>Android 11+ / ARM64 · Bring your original game files</strong></p>
 
-**Apple Bridge brings 21 early iPhone games to Android in v0.0.9.** GTA Vice City, Mass Effect Infiltrator, Infinity Blade II, Mass Effect Galaxy, Dead Space, and more share one library, with each game's original gameplay, touchscreen controls, and tilt inputs where the game uses them.**Now with Bluetooth controller support** with mappable weapons and saved profiles
+**Apple Bridge brings 21 early iPhone games to Android in v0.0.9.** GTA Vice City, Mass Effect Infiltrator, Infinity Blade II, Mass Effect Galaxy, Dead Space, and more share one library, with each game's original gameplay, touchscreen controls, and tilt inputs where the game uses them. **Now with Bluetooth controller support** with mappable weapons and saved profiles
 
 Install the player, import a matching original `.ipa`, and tap its game tile to play. The compatibility bridges are included. Original game files are supplied by you.
 
