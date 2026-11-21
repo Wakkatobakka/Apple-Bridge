@@ -122,7 +122,7 @@ The v0.0.8 public collection contains **21 games**: **11 additions** alongside u
 
 ## Request a game
 
-Want to play an old iPhone or iPad game in Apple Bridge? Tell me which one. I use these requests to decide what to try next.
+Want to play an old iPhone or iPad game in Apple Bridge? Tell me which one. I use these requests to decide what to try next. As long as it's feesible 😅🤣
 
 [Browse requests by 👍](https://github.com/Wakkatobakka/Apple-Bridge/issues?q=is%3Aissue+%22Game+request%22+in%3Atitle+sort%3Areactions-%2B1-desc) · [Submit a game request](https://github.com/Wakkatobakka/Apple-Bridge/issues/new?template=game-request.yml)
 
