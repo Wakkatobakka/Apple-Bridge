@@ -1,13 +1,17 @@
-APPLE BRIDGE 0.0.8 — SUPPORTED GAMES
+APPLE BRIDGE 0.0.10 — SUPPORTED GAMES
 
 Players supply the matching original game files. Install the Apple Bridge update, then choose Load Game.
 
 Assassin’s Creed: Altaïr’s Chronicles — iOS — Bridge 0.0.1
+Call of Duty: Zombies — iOS — Bridge 0.0.1
 Castlevania Puzzle: Encore of the Night — iOS — Bridge 0.0.2
 Chaos Rings — iOS — Bridge 0.0.3
 Dead Space — iOS — Bridge 0.0.2
 Devil May Cry 4: Refrain — iOS — Bridge 0.0.4
+DOOM II RPG — iOS — Bridge 0.0.1
 Doom Resurrection — iOS — Bridge 0.0.3
+Doraemon Gadget Rush — iOS — Bridge 0.0.10
+Dungeon Hunter II — iOS — Bridge 0.0.3
 Flappy Bird — iOS — Bridge 0.0.5
 GAROU: Mark of the Wolves — iOS — Bridge 0.0.1
 GTA Vice City — iOS — Bridge 0.0.4
@@ -15,11 +19,18 @@ Infinity Blade II — iOS — Bridge 0.0.1
 Mass Effect Galaxy — iOS — Bridge 0.0.16
 Mass Effect Infiltrator — iOS — Bridge 0.0.6
 Metal Gear Solid Touch — iOS — Bridge 0.0.4
+Mirror’s Edge — iOS — Bridge 0.0.3
 Monster Hunter: Dynamic Hunting — iOS — Bridge 0.0.3
 N.O.V.A. HD — iOS — Bridge 0.0.1
+Phoenix Wright: Ace Attorney — iOS — Bridge 0.0.2
+Predators — iOS — Bridge 0.0.3
 Prey Invasion — iOS — Bridge 0.0.3
+Rage HD — iOS — Bridge 0.0.1
 Samurai II: Vengeance — iOS — Bridge 0.0.1
 Silent Hill: The Escape — iOS — Bridge 0.0.7
+Space Miner: Space Ore Bust — iOS — Bridge 0.0.5
 Spider-Man: Total Mayhem — iOS — Bridge 0.0.5
+Street Fighter IV — iOS — Bridge 0.0.3
+Tap Tap Revenge 2 — iOS — Bridge 0.0.5
 Zenonia — iOS — Bridge 0.0.2
 Zombie Infection — iOS — Bridge 0.0.2

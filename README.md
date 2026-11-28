@@ -9,7 +9,7 @@
 
 <p align="center"><strong>Android 11+ / ARM64 · Bring your original game files</strong></p>
 
-**Apple Bridge brings 21 early iPhone games to Android in v0.0.9.** GTA Vice City, Mass Effect Infiltrator, Infinity Blade II, Dead Space, and more share one library, each keeping its own interface, touchscreen and tilt controls, and save system. **Now with Bluetooth controller support**, with mappable weapons and saved profiles.
+**Apple Bridge runs 32 iPhone games on Android.** The latest batch includes Call of Duty: Zombies, DOOM II RPG, and Phoenix Wright: Ace Attorney. The games keep their original screens and touch or tilt controls. Bluetooth mapping is available, with presets for selected games.
 
 <a name="a-different-corner-of-mobile-gaming"></a>These games have their own ideas about what playing on a phone can feel like: an RPG you could carry in your pocket, a Doom shooter aimed by tilting the phone, a Castlevania built around falling-block battles.
 
@@ -59,7 +59,7 @@ Recorded in Apple Bridge. Tap a preview to open its gameplay clip.
   <a href="./assets/apple-bridge/library-screenshot.jpg"><img src="./assets/apple-bridge/library-screenshot.jpg" width="380" alt="Apple Bridge’s Android game library in grid view."></a>
 </p>
 
-Eleven are new in v0.0.9, and the original ten got updated bridges. Search your library, switch between list and grid, and sort however you like. The [game guide](GAME_GUIDE.md) has the supported original editions, filenames, download links, and playing notes.
+Search your library or switch between list and grid. The [game guide](GAME_GUIDE.md) has the supported editions, original filenames, and playing notes.
 
 <details>
 <summary>Full game list</summary>
@@ -67,11 +67,15 @@ Eleven are new in v0.0.9, and the original ten got updated bridges. Search your 
 | Game | What to expect |
 | --- | --- |
 | [Assassin’s Creed: Altaïr’s Chronicles](GAME_GUIDE.md#assassins-creed-altairs-chronicles) | Altaïr’s touchscreen action adventure |
+| [Call of Duty: Zombies](GAME_GUIDE.md#call-of-duty-zombies) | The original iPhone Zombies release |
 | [Castlevania Puzzle: Encore of the Night](GAME_GUIDE.md#castlevania-puzzle-encore-of-the-night) | Falling-block battles and castle exploration |
 | [Chaos Rings](GAME_GUIDE.md#chaos-rings) | Exploration and turn-based combat |
 | [Dead Space](GAME_GUIDE.md#dead-space) | Third-person survival horror made for a phone |
 | [Devil May Cry 4: Refrain](GAME_GUIDE.md#devil-may-cry-4-refrain) | Swords, guns, jumping, and touchscreen demon hunting |
+| [DOOM II RPG](GAME_GUIDE.md#doom-ii-rpg) | First-person, turn-based Doom |
 | [Doom Resurrection](GAME_GUIDE.md#doom-resurrection) | Tilt aiming and touchscreen actions |
+| [Doraemon Gadget Rush](GAME_GUIDE.md#doraemon-gadget-rush) | Doraemon puzzle action |
+| [Dungeon Hunter II](GAME_GUIDE.md#dungeon-hunter-ii) | Gameloft’s action RPG |
 | [Flappy Bird](GAME_GUIDE.md#flappy-bird) | Tap-to-flap obstacle runs |
 | [GAROU: Mark of the Wolves](GAME_GUIDE.md#garou-mark-of-the-wolves) | SNK fighting on a touchscreen |
 | [GTA Vice City](GAME_GUIDE.md#gta-vice-city) | Vice City on Android through the original iOS game |
@@ -79,12 +83,19 @@ Eleven are new in v0.0.9, and the original ten got updated bridges. Search your 
 | [Mass Effect Galaxy](GAME_GUIDE.md#mass-effect-galaxy) | Jacob Taylor’s adventure with tilt movement |
 | [Mass Effect Infiltrator](GAME_GUIDE.md#mass-effect-infiltrator) | A touchscreen Mass Effect shooter |
 | [Metal Gear Solid Touch](GAME_GUIDE.md#metal-gear-solid-touch) | Touch aiming, cover, and a two-finger scope |
+| [Mirror’s Edge](GAME_GUIDE.md#mirrors-edge) | Faith’s side-scrolling iPhone game |
 | [Monster Hunter: Dynamic Hunting](GAME_GUIDE.md#monster-hunter-dynamic-hunting) | Monster hunts built around touch controls |
 | [N.O.V.A. HD](GAME_GUIDE.md#nova-hd) | The original iPad HD edition of Gameloft’s sci-fi shooter |
+| [Phoenix Wright: Ace Attorney](GAME_GUIDE.md#phoenix-wright-ace-attorney) | Courtroom cases and investigations |
+| [Predators](GAME_GUIDE.md#predators) | Third-person Predator action |
 | [Prey Invasion](GAME_GUIDE.md#prey-invasion) | Alien encounters with touch controls |
+| [Rage HD](GAME_GUIDE.md#rage-hd) | id Software’s on-rails shooter |
 | [Samurai II: Vengeance](GAME_GUIDE.md#samurai-ii-vengeance) | Touchscreen samurai combat |
 | [Silent Hill: The Escape](GAME_GUIDE.md#silent-hill-the-escape) | Maze exploration, shooting, and tilt alignment |
+| [Space Miner: Space Ore Bust](GAME_GUIDE.md#space-miner-space-ore-bust) | Mining and combat in space |
 | [Spider-Man: Total Mayhem](GAME_GUIDE.md#spider-man-total-mayhem) | Spider-Man’s touchscreen action adventure |
+| [Street Fighter IV](GAME_GUIDE.md#street-fighter-iv) | Capcom’s original iPhone Street Fighter IV |
+| [Tap Tap Revenge 2](GAME_GUIDE.md#tap-tap-revenge-2) | Tap along to the music |
 | [Zenonia](GAME_GUIDE.md#zenonia) | The original Zenonia adventure |
 | [Zombie Infection](GAME_GUIDE.md#zombie-infection) | Gameloft’s third-person zombie action |
 
@@ -100,7 +111,7 @@ If someone already requested your game, give their opening post a 👍 so the vo
 
 ## Testing and rough edges
 
-Every included game is personally playtested through its tutorial and into the first level, often further. Full start-to-finish completion has not been verified for every title, so later bugs or progression issues may still exist.
+Apple Bridge is a public beta. Later bugs and progression issues can turn up even when a game imports and starts.
 
 The [guide](GAME_GUIDE.md#help-and-troubleshooting) covers practical details such as tilt calibration, Metal Gear Solid Touch's orientation, original-file matching, and report saving. Use the release notes for changes in a particular build.
 

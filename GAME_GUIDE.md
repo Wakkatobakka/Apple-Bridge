@@ -32,7 +32,7 @@ The table lists the matching originals and bridge versions for 32 iPhone and iPa
 | [DOOM II RPG](#doom-ii-rpg) | iPhone edition | 0.0.1 | [Download](https://archive.org/download/Doom2RPG/Doom%202%20RPG.ipa) |
 | [Doom Resurrection](#doom-resurrection) | v1.0.1 / iOS 2.2.1 | 0.0.3 | [Download](https://archive.org/download/ios_2_ipa/Resurrection_v1.0.1_os221.ipa) |
 | [Doraemon Gadget Rush](#doraemon-gadget-rush) | 1.0.1 | 0.0.10 | [Download](https://archive.org/download/ios-ipa-collection/Doraemon%20Gadget%20Rush%201.0.1.ipa) |
-| [Dungeon Hunter II](#dungeon-hunter-ii) | 1.0.0 | 0.0.2 | [Download](https://archive.org/download/ios-ipa-collection/Dungeon%20Hunter%202%201.0.0.ipa) |
+| [Dungeon Hunter II](#dungeon-hunter-ii) | 1.0.0 | 0.0.3 | [Download](https://archive.org/download/ios-ipa-collection/Dungeon%20Hunter%202%201.0.0.ipa) |
 | [Flappy Bird](#flappy-bird) | v1.2 / iOS 6.0 | 0.0.5 | [Download](https://archive.org/download/ios-ipa-collection/FlappyBird%201.2.ipa) |
 | [GAROU: Mark of the Wolves](#garou-mark-of-the-wolves) | v1.0 / iOS 7.0 | 0.0.1 | [Download](https://archive.org/download/ios-ipa-collection/GAROU%20MARK%20OF%20THE%20WOLVES%201.0.ipa) |
 | [GTA Vice City](#gta-vice-city) | 1.3 / iOS 4.3 | 0.0.4 | [Download](https://archive.org/download/ios-ipa-collection/Grand%20Theft%20Auto%20Vice%20City%201.3.ipa) |
@@ -256,7 +256,7 @@ A Doraemon puzzle game.
 
 **[Download original IPA](https://archive.org/download/ios-ipa-collection/Dungeon%20Hunter%202%201.0.0.ipa) · [View source page](https://archive.org/details/ios-ipa-collection)**
 
-**Bridge:** 0.0.2
+**Bridge:** Apple Bridge v0.0.3 · Omni Player v0.6.1 uses bridge v0.0.2
 
 **Original edition:** 1.0.0
 
